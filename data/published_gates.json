@@ -31,5 +31,38 @@
     "hinge_lbs": 1138,
     "sol_w": 50,
     "date": "2026-11-10"
+  },
+  {
+    "gate_name": "Mighty Mule MM371W (16 Ft / 550 Lb) Single Swing Gate Opener",
+    "slug": "mighty-mule-mm371w-16-ft-550-lb-single-swing-gate-opener-actuator-solar-calculator",
+    "title": "Mighty Mule MM371W (16 Ft / 550 Lb) Single Swing Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (550 lb actuator rating for 16 ft / 320 lb gate), 30-MPH wind drag (+52 lbs), 640-lb hinge thrust, and 30W solar/40Ah battery sizing for Mighty Mule MM371W (16 Ft / 550 Lb) Single Swing Gate Opener.",
+    "len_ft": 16,
+    "eff_lbs": 550,
+    "hinge_lbs": 640,
+    "sol_w": 30,
+    "date": "2026-11-10"
+  },
+  {
+    "gate_name": "Mighty Mule MM372W Dual Swing Smart Driveway Gate Opener",
+    "slug": "mighty-mule-mm372w-dual-swing-smart-driveway-gate-opener-actuator-solar-calculator",
+    "title": "Mighty Mule MM372W Dual Swing Smart Driveway Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (550 lb actuator rating for 16 ft / 350 lb gate), 30-MPH wind drag (+65 lbs), 700-lb hinge thrust, and 30W solar/40Ah battery sizing for Mighty Mule MM372W Dual Swing Smart Driveway Gate Opener.",
+    "len_ft": 16,
+    "eff_lbs": 550,
+    "hinge_lbs": 700,
+    "sol_w": 30,
+    "date": "2026-11-10"
+  },
+  {
+    "gate_name": "Mighty Mule MM571W & MM572W (18 Ft / 850 Lb) Heavy-Duty",
+    "slug": "mighty-mule-mm571w-mm572w-18-ft-850-lb-heavy-duty-actuator-solar-calculator",
+    "title": "Mighty Mule MM571W & MM572W (18 Ft / 850 Lb) Heavy-Duty Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (990 lb actuator rating for 18 ft / 550 lb gate), 30-MPH wind drag (+88 lbs), 1238-lb hinge thrust, and 50W solar/60Ah battery sizing for Mighty Mule MM571W & MM572W (18 Ft / 850 Lb) Heavy-Duty.",
+    "len_ft": 18,
+    "eff_lbs": 990,
+    "hinge_lbs": 1238,
+    "sol_w": 50,
+    "date": "2026-11-10"
   }
 ]
