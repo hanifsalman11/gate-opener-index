@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "gate_name": "Ghost Controls TDS2XP Heavy-Duty Dual Solar Gate Opener",
+    "slug": "ghost-controls-tds2xp-heavy-duty-dual-solar-gate-opener-actuator-solar-calculator",
+    "title": "Ghost Controls TDS2XP Heavy-Duty Dual Solar Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (1,000 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+65 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Ghost Controls TDS2XP Heavy-Duty Dual Solar Gate Opener.",
+    "len_ft": 16,
+    "eff_lbs": 1000,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-10"
+  },
+  {
+    "gate_name": "Ghost Controls TSS1XP Single Automatic Solar Gate Opener",
+    "slug": "ghost-controls-tss1xp-single-automatic-solar-gate-opener-actuator-solar-calculator",
+    "title": "Ghost Controls TSS1XP Single Automatic Solar Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (1,000 lb actuator rating for 16 ft / 400 lb gate), 30-MPH wind drag (+52 lbs), 800-lb hinge thrust, and 30W solar/50Ah battery sizing for Ghost Controls TSS1XP Single Automatic Solar Gate Opener.",
+    "len_ft": 16,
+    "eff_lbs": 1000,
+    "hinge_lbs": 800,
+    "sol_w": 30,
+    "date": "2026-11-10"
+  },
+  {
+    "gate_name": "Ghost Controls DTP1 & HDP1 Architectural Estate Gate Opener",
+    "slug": "ghost-controls-dtp1-hdp1-architectural-estate-gate-opener-actuator-solar-calculator",
+    "title": "Ghost Controls DTP1 & HDP1 Architectural Estate Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (1,000 lb actuator rating for 14 ft / 650 lb gate), 30-MPH wind drag (+79 lbs), 1138-lb hinge thrust, and 50W solar/60Ah battery sizing for Ghost Controls DTP1 & HDP1 Architectural Estate Gate Opener.",
+    "len_ft": 14,
+    "eff_lbs": 1000,
+    "hinge_lbs": 1138,
+    "sol_w": 50,
+    "date": "2026-11-10"
+  }
+]

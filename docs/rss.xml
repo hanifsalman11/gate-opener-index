@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GateOpenerIndex Automatic Driveway Gate Opener & Solar Database</title>
+    <link>https://hanifsalman11.github.io/gate-opener-index/</link>
+    <description>Interactive Automatic Gate Opener Actuator Capacity, Wind-Load & Solar Sizing Calculators</description>
+    <atom:link href="https://hanifsalman11.github.io/gate-opener-index/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <item>
+      <title>Ghost Controls DTP1 & HDP1 Architectural Estate Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/gate-opener-index/ghost-controls-dtp1-hdp1-architectural-estate-gate-opener-actuator-solar-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/gate-opener-index/ghost-controls-dtp1-hdp1-architectural-estate-gate-opener-actuator-solar-calculator.html</guid>
+      <description>Calculate exact gate opener capacity (1,000 lb actuator rating for 14 ft / 650 lb gate), 30-MPH wind drag (+79 lbs), 1138-lb hinge thrust, and 50W solar/60Ah battery sizing for Ghost Controls DTP1 & HDP1 Architectural Estate Gate Opener.</description>
+    </item>
+    <item>
+      <title>Ghost Controls TSS1XP Single Automatic Solar Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/gate-opener-index/ghost-controls-tss1xp-single-automatic-solar-gate-opener-actuator-solar-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/gate-opener-index/ghost-controls-tss1xp-single-automatic-solar-gate-opener-actuator-solar-calculator.html</guid>
+      <description>Calculate exact gate opener capacity (1,000 lb actuator rating for 16 ft / 400 lb gate), 30-MPH wind drag (+52 lbs), 800-lb hinge thrust, and 30W solar/50Ah battery sizing for Ghost Controls TSS1XP Single Automatic Solar Gate Opener.</description>
+    </item>
+    <item>
+      <title>Ghost Controls TDS2XP Heavy-Duty Dual Solar Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/gate-opener-index/ghost-controls-tds2xp-heavy-duty-dual-solar-gate-opener-actuator-solar-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/gate-opener-index/ghost-controls-tds2xp-heavy-duty-dual-solar-gate-opener-actuator-solar-calculator.html</guid>
+      <description>Calculate exact gate opener capacity (1,000 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+65 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Ghost Controls TDS2XP Heavy-Duty Dual Solar Gate Opener.</description>
+    </item>
+  </channel>
+</rss>
