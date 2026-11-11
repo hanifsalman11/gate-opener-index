@@ -64,5 +64,38 @@
     "hinge_lbs": 1238,
     "sol_w": 50,
     "date": "2026-11-10"
+  },
+  {
+    "gate_name": "TOPENS A8131 & A8231 Heavy-Duty Swing Gate Opener",
+    "slug": "topens-a8131-a8231-heavy-duty-swing-gate-opener-actuator-solar-calculator",
+    "title": "TOPENS A8131 & A8231 Heavy-Duty Swing Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (880 lb actuator rating for 16 ft / 500 lb gate), 30-MPH wind drag (+78 lbs), 1000-lb hinge thrust, and 50W solar/60Ah battery sizing for TOPENS A8131 & A8231 Heavy-Duty Swing Gate Opener.",
+    "len_ft": 16,
+    "eff_lbs": 880,
+    "hinge_lbs": 1000,
+    "sol_w": 50,
+    "date": "2026-11-11"
+  },
+  {
+    "gate_name": "TOPENS AT12131 & AT12132S (18 Ft / 880 Lb) 24V Gate Opener",
+    "slug": "topens-at12131-at12132s-18-ft-880-lb-24v-gate-opener-actuator-solar-calculator",
+    "title": "TOPENS AT12131 & AT12132S (18 Ft / 880 Lb) 24V Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (1,040 lb actuator rating for 18 ft / 580 lb gate), 30-MPH wind drag (+88 lbs), 1305-lb hinge thrust, and 50W solar/60Ah battery sizing for TOPENS AT12131 & AT12132S (18 Ft / 880 Lb) 24V Gate Opener.",
+    "len_ft": 18,
+    "eff_lbs": 1040,
+    "hinge_lbs": 1305,
+    "sol_w": 50,
+    "date": "2026-11-11"
+  },
+  {
+    "gate_name": "TOPENS RK990T & DK1000S Rack-Driven Sliding Gate Opener",
+    "slug": "topens-rk990t-dk1000s-rack-driven-sliding-gate-opener-actuator-solar-calculator",
+    "title": "TOPENS RK990T & DK1000S Rack-Driven Sliding Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (2,520 lb actuator rating for 20 ft / 1100 lb gate), 30-MPH wind drag (+162 lbs), 2750-lb hinge thrust, and 50W solar/70Ah battery sizing for TOPENS RK990T & DK1000S Rack-Driven Sliding Gate Opener.",
+    "len_ft": 20,
+    "eff_lbs": 2520,
+    "hinge_lbs": 2750,
+    "sol_w": 50,
+    "date": "2026-11-11"
   }
 ]
