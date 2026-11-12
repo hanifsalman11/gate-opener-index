@@ -130,5 +130,38 @@
     "hinge_lbs": 2138,
     "sol_w": 50,
     "date": "2026-11-11"
+  },
+  {
+    "gate_name": "LiftMaster CSL24UL (50 Ft / 1,500 Lb) 24VDC Slide Gate Operator",
+    "slug": "liftmaster-csl24ul-50-ft-1500-lb-24vdc-slide-gate-operator-actuator-solar-calculator",
+    "title": "LiftMaster CSL24UL (50 Ft / 1,500 Lb) 24VDC Slide Gate Operator Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (2,890 lb actuator rating for 22 ft / 1150 lb gate), 30-MPH wind drag (+178 lbs), 3162-lb hinge thrust, and 50W solar/110Ah battery sizing for LiftMaster CSL24UL (50 Ft / 1,500 Lb) 24VDC Slide Gate Operator.",
+    "len_ft": 22,
+    "eff_lbs": 2890,
+    "hinge_lbs": 3162,
+    "sol_w": 50,
+    "date": "2026-11-12"
+  },
+  {
+    "gate_name": "USAutomatic Ranger 500D & Patriot (16 Ft) Solar Gate Opener",
+    "slug": "usautomatic-ranger-500d-patriot-16-ft-solar-gate-opener-actuator-solar-calculator",
+    "title": "USAutomatic Ranger 500D & Patriot (16 Ft) Solar Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (800 lb actuator rating for 16 ft / 480 lb gate), 30-MPH wind drag (+65 lbs), 960-lb hinge thrust, and 50W solar/60Ah battery sizing for USAutomatic Ranger 500D & Patriot (16 Ft) Solar Gate Opener.",
+    "len_ft": 16,
+    "eff_lbs": 800,
+    "hinge_lbs": 960,
+    "sol_w": 50,
+    "date": "2026-11-12"
+  },
+  {
+    "gate_name": "Apollo / Nice 1550ETL & 1650ETL Solar Ranch Gate Opener",
+    "slug": "apollo-nice-1550etl-1650etl-solar-ranch-gate-opener-actuator-solar-calculator",
+    "title": "Apollo / Nice 1550ETL & 1650ETL Solar Ranch Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (1,000 lb actuator rating for 16 ft / 520 lb gate), 30-MPH wind drag (+65 lbs), 1040-lb hinge thrust, and 50W solar/60Ah battery sizing for Apollo / Nice 1550ETL & 1650ETL Solar Ranch Gate Opener.",
+    "len_ft": 16,
+    "eff_lbs": 1000,
+    "hinge_lbs": 1040,
+    "sol_w": 50,
+    "date": "2026-11-12"
   }
 ]
