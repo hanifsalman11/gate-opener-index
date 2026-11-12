@@ -163,5 +163,38 @@
     "hinge_lbs": 1040,
     "sol_w": 50,
     "date": "2026-11-12"
+  },
+  {
+    "gate_name": "Viking Access G-5 & K-2 Commercial Swing Gate Operator",
+    "slug": "viking-access-g-5-k-2-commercial-swing-gate-operator-actuator-solar-calculator",
+    "title": "Viking Access G-5 & K-2 Commercial Swing Gate Operator Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (1,300 lb actuator rating for 16 ft / 750 lb gate), 30-MPH wind drag (+91 lbs), 1500-lb hinge thrust, and 50W solar/90Ah battery sizing for Viking Access G-5 & K-2 Commercial Swing Gate Operator.",
+    "len_ft": 16,
+    "eff_lbs": 1300,
+    "hinge_lbs": 1500,
+    "sol_w": 50,
+    "date": "2026-11-12"
+  },
+  {
+    "gate_name": "CO-Z 1,400 Lb & 1,800 Lb Automatic Sliding Gate Opener",
+    "slug": "co-z-1400-lb-1800-lb-automatic-sliding-gate-opener-actuator-solar-calculator",
+    "title": "CO-Z 1,400 Lb & 1,800 Lb Automatic Sliding Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (2,040 lb actuator rating for 20 ft / 950 lb gate), 30-MPH wind drag (+130 lbs), 2375-lb hinge thrust, and 50W solar/60Ah battery sizing for CO-Z 1,400 Lb & 1,800 Lb Automatic Sliding Gate Opener.",
+    "len_ft": 20,
+    "eff_lbs": 2040,
+    "hinge_lbs": 2375,
+    "sol_w": 50,
+    "date": "2026-11-12"
+  },
+  {
+    "gate_name": "Aleko GG1300 & GG1700 Dual Swing Driveway Gate Opener",
+    "slug": "aleko-gg1300-gg1700-dual-swing-driveway-gate-opener-actuator-solar-calculator",
+    "title": "Aleko GG1300 & GG1700 Dual Swing Driveway Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (1,300 lb actuator rating for 16 ft / 600 lb gate), 30-MPH wind drag (+78 lbs), 1200-lb hinge thrust, and 50W solar/60Ah battery sizing for Aleko GG1300 & GG1700 Dual Swing Driveway Gate Opener.",
+    "len_ft": 16,
+    "eff_lbs": 1300,
+    "hinge_lbs": 1200,
+    "sol_w": 50,
+    "date": "2026-11-12"
   }
 ]
