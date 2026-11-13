@@ -262,5 +262,38 @@
     "hinge_lbs": 720,
     "sol_w": 50,
     "date": "2026-11-13"
+  },
+  {
+    "gate_name": "20-Foot Cantilever & V-Groove Rolling Slide Gate Sizing",
+    "slug": "20-foot-cantilever-v-groove-rolling-slide-gate-sizing-actuator-solar-calculator",
+    "title": "20-Foot Cantilever & V-Groove Rolling Slide Gate Sizing Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (2,040 lb actuator rating for 20 ft / 950 lb gate), 30-MPH wind drag (+130 lbs), 2375-lb hinge thrust, and 50W solar/70Ah battery sizing for 20-Foot Cantilever & V-Groove Rolling Slide Gate Sizing.",
+    "len_ft": 20,
+    "eff_lbs": 2040,
+    "hinge_lbs": 2375,
+    "sol_w": 50,
+    "date": "2026-11-13"
+  },
+  {
+    "gate_name": "30-Foot Commercial Chain-Link Sliding Security Gate Sizing",
+    "slug": "30-foot-commercial-chain-link-sliding-security-gate-sizing-actuator-solar-calculator",
+    "title": "30-Foot Commercial Chain-Link Sliding Security Gate Sizing Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (3,920 lb actuator rating for 30 ft / 1350 lb gate), 30-MPH wind drag (+122 lbs), 5062-lb hinge thrust, and 50W solar/90Ah battery sizing for 30-Foot Commercial Chain-Link Sliding Security Gate Sizing.",
+    "len_ft": 30,
+    "eff_lbs": 3920,
+    "hinge_lbs": 5062,
+    "sol_w": 50,
+    "date": "2026-11-13"
+  },
+  {
+    "gate_name": "Solar Gate Opener Panel Wattage (20W vs 30W vs 60W) & Battery",
+    "slug": "solar-gate-opener-panel-wattage-20w-vs-30w-vs-60w-battery-actuator-solar-calculator",
+    "title": "Solar Gate Opener Panel Wattage (20W vs 30W vs 60W) & Battery Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 400 lb gate), 30-MPH wind drag (+65 lbs), 800-lb hinge thrust, and 50W solar/60Ah battery sizing for Solar Gate Opener Panel Wattage (20W vs 30W vs 60W) & Battery.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 800,
+    "sol_w": 50,
+    "date": "2026-11-13"
   }
 ]
