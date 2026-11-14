@@ -328,5 +328,38 @@
     "hinge_lbs": 1300,
     "sol_w": 50,
     "date": "2026-11-14"
+  },
+  {
+    "gate_name": "What  Door Opening  Wheelchair Access",
+    "slug": "what-door-opening-wheelchair-access-actuator-solar-calculator",
+    "title": "What  Door Opening  Wheelchair Access Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for What  Door Opening  Wheelchair Access.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-14"
+  },
+  {
+    "gate_name": "What  Door Opening  A Wheelchair",
+    "slug": "what-door-opening-a-wheelchair-actuator-solar-calculator",
+    "title": "What  Door Opening  A Wheelchair Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for What  Door Opening  A Wheelchair.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-14"
+  },
+  {
+    "gate_name": "What  Door  Opening",
+    "slug": "what-door-opening-actuator-solar-calculator",
+    "title": "What  Door  Opening Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for What  Door  Opening.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-14"
   }
 ]
