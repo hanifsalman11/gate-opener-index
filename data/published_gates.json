@@ -295,5 +295,38 @@
     "hinge_lbs": 800,
     "sol_w": 50,
     "date": "2026-11-13"
+  },
+  {
+    "gate_name": "Automatic Electromagnetic Gate Lock & Wind-Bracing Sizing",
+    "slug": "automatic-electromagnetic-gate-lock-wind-bracing-sizing-actuator-solar-calculator",
+    "title": "Automatic Electromagnetic Gate Lock & Wind-Bracing Sizing Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (1,010 lb actuator rating for 16 ft / 480 lb gate), 30-MPH wind drag (+195 lbs), 960-lb hinge thrust, and 30W solar/50Ah battery sizing for Automatic Electromagnetic Gate Lock & Wind-Bracing Sizing.",
+    "len_ft": 16,
+    "eff_lbs": 1010,
+    "hinge_lbs": 960,
+    "sol_w": 30,
+    "date": "2026-11-14"
+  },
+  {
+    "gate_name": "Low-Voltage 16/2 vs 12/2 Direct-Burial Transformer Wire Run",
+    "slug": "low-voltage-162-vs-122-direct-burial-transformer-wire-run-actuator-solar-calculator",
+    "title": "Low-Voltage 16/2 vs 12/2 Direct-Burial Transformer Wire Run Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 50W solar/60Ah battery sizing for Low-Voltage 16/2 vs 12/2 Direct-Burial Transformer Wire Run.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 50,
+    "date": "2026-11-14"
+  },
+  {
+    "gate_name": "Gate Post Hinge Shear Load & Ball-Bearing Barrel Hinge Sizing",
+    "slug": "gate-post-hinge-shear-load-ball-bearing-barrel-hinge-sizing-actuator-solar-calculator",
+    "title": "Gate Post Hinge Shear Load & Ball-Bearing Barrel Hinge Sizing Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (1,080 lb actuator rating for 16 ft / 650 lb gate), 30-MPH wind drag (+91 lbs), 1300-lb hinge thrust, and 50W solar/60Ah battery sizing for Gate Post Hinge Shear Load & Ball-Bearing Barrel Hinge Sizing.",
+    "len_ft": 16,
+    "eff_lbs": 1080,
+    "hinge_lbs": 1300,
+    "sol_w": 50,
+    "date": "2026-11-14"
   }
 ]
