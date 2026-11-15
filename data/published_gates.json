@@ -427,5 +427,38 @@
     "hinge_lbs": 900,
     "sol_w": 30,
     "date": "2026-11-15"
+  },
+  {
+    "gate_name": "What  Wire  Gate Opener",
+    "slug": "what-wire-gate-opener-actuator-solar-calculator",
+    "title": "What  Wire  Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for What  Wire  Gate Opener.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-15"
+  },
+  {
+    "gate_name": "Ghost Controls Gate Opener",
+    "slug": "ghost-controls-gate-opener-actuator-solar-calculator",
+    "title": "Ghost Controls Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Ghost Controls Gate Opener.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-15"
+  },
+  {
+    "gate_name": "Ghost Controls Gate Opener Remote",
+    "slug": "ghost-controls-gate-opener-remote-actuator-solar-calculator",
+    "title": "Ghost Controls Gate Opener Remote Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Ghost Controls Gate Opener Remote.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-15"
   }
 ]
