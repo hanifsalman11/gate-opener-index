@@ -394,5 +394,38 @@
     "hinge_lbs": 900,
     "sol_w": 30,
     "date": "2026-11-14"
+  },
+  {
+    "gate_name": "What  Garage Door Opener  16X10",
+    "slug": "what-garage-door-opener-16x10-actuator-solar-calculator",
+    "title": "What  Garage Door Opener  16X10 Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for What  Garage Door Opener  16X10.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-15"
+  },
+  {
+    "gate_name": "What  Barn Door  Opening",
+    "slug": "what-barn-door-opening-actuator-solar-calculator",
+    "title": "What  Barn Door  Opening Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for What  Barn Door  Opening.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-15"
+  },
+  {
+    "gate_name": "What  Battery  Gate Opener",
+    "slug": "what-battery-gate-opener-actuator-solar-calculator",
+    "title": "What  Battery  Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for What  Battery  Gate Opener.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-15"
   }
 ]
