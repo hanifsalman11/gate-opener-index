@@ -460,5 +460,38 @@
     "hinge_lbs": 900,
     "sol_w": 30,
     "date": "2026-11-15"
+  },
+  {
+    "gate_name": "Ghost Controls Gate Opener Troubleshooting",
+    "slug": "ghost-controls-gate-opener-troubleshooting-actuator-solar-calculator",
+    "title": "Ghost Controls Gate Opener Troubleshooting Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Ghost Controls Gate Opener Troubleshooting.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-16"
+  },
+  {
+    "gate_name": "Ghost Controls Gate Opener Programming",
+    "slug": "ghost-controls-gate-opener-programming-actuator-solar-calculator",
+    "title": "Ghost Controls Gate Opener Programming Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Ghost Controls Gate Opener Programming.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-16"
+  },
+  {
+    "gate_name": "Ghost Controls Gate Opener Not Working",
+    "slug": "ghost-controls-gate-opener-not-working-actuator-solar-calculator",
+    "title": "Ghost Controls Gate Opener Not Working Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Ghost Controls Gate Opener Not Working.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-16"
   }
 ]
