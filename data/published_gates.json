@@ -493,5 +493,38 @@
     "hinge_lbs": 900,
     "sol_w": 30,
     "date": "2026-11-16"
+  },
+  {
+    "gate_name": "Ghost Controls Gate Opener Reviews",
+    "slug": "ghost-controls-gate-opener-reviews-actuator-solar-calculator",
+    "title": "Ghost Controls Gate Opener Reviews Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Ghost Controls Gate Opener Reviews.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-16"
+  },
+  {
+    "gate_name": "Ghost Controls Gate Opener Install",
+    "slug": "ghost-controls-gate-opener-install-actuator-solar-calculator",
+    "title": "Ghost Controls Gate Opener Install Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Ghost Controls Gate Opener Install.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-16"
+  },
+  {
+    "gate_name": "Ghost Controls Gate Opener Party Mode",
+    "slug": "ghost-controls-gate-opener-party-mode-actuator-solar-calculator",
+    "title": "Ghost Controls Gate Opener Party Mode Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Ghost Controls Gate Opener Party Mode.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-16"
   }
 ]
