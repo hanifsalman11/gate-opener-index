@@ -559,5 +559,38 @@
     "hinge_lbs": 900,
     "sol_w": 30,
     "date": "2026-11-17"
+  },
+  {
+    "gate_name": "Mighty Mule Gate Opener",
+    "slug": "mighty-mule-gate-opener-actuator-solar-calculator",
+    "title": "Mighty Mule Gate Opener Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Mighty Mule Gate Opener.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-17"
+  },
+  {
+    "gate_name": "Mighty Mule Gate Opener  Pdf",
+    "slug": "mighty-mule-gate-opener-pdf-actuator-solar-calculator",
+    "title": "Mighty Mule Gate Opener  Pdf Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Mighty Mule Gate Opener  Pdf.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-17"
+  },
+  {
+    "gate_name": "Mighty Mule Gate Opener Battery",
+    "slug": "mighty-mule-gate-opener-battery-actuator-solar-calculator",
+    "title": "Mighty Mule Gate Opener Battery Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Mighty Mule Gate Opener Battery.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-17"
   }
 ]
