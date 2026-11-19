@@ -658,5 +658,27 @@
     "hinge_lbs": 250,
     "sol_w": 50,
     "date": "2026-11-18"
+  },
+  {
+    "gate_name": "Mighty Mule Gate Opener Installation",
+    "slug": "mighty-mule-gate-opener-installation-actuator-solar-calculator",
+    "title": "Mighty Mule Gate Opener Installation Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Mighty Mule Gate Opener Installation.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-19"
+  },
+  {
+    "gate_name": "10-Ft Farm Tube Cattle Gate (200 Lb) (120V AC Low-Voltage Wire Setup)",
+    "slug": "10-ft-farm-tube-cattle-gate-200-lb-120v-ac-low-voltage-wire-setup-actuator-solar-calculator",
+    "title": "10-Ft Farm Tube Cattle Gate (200 Lb) (120V AC Low-Voltage Wire Setup) Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (550 lb actuator rating for 10 ft / 200 lb gate), 30-MPH wind drag (+24 lbs), 250-lb hinge thrust, and 50W solar/60Ah battery sizing for 10-Ft Farm Tube Cattle Gate (200 Lb) (120V AC Low-Voltage Wire Setup).",
+    "len_ft": 10,
+    "eff_lbs": 550,
+    "hinge_lbs": 250,
+    "sol_w": 50,
+    "date": "2026-11-19"
   }
 ]
