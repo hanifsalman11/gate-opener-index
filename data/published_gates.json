@@ -724,5 +724,16 @@
     "hinge_lbs": 812,
     "sol_w": 50,
     "date": "2026-11-21"
+  },
+  {
+    "gate_name": "10-Ft Solid Wood / Metal Privacy Gate (550 Lb) (Off-Grid Solar Kit)",
+    "slug": "10-ft-solid-wood-metal-privacy-gate-550-lb-off-grid-solar-kit-actuator-solar-calculator",
+    "title": "10-Ft Solid Wood / Metal Privacy Gate (550 Lb) (Off-Grid Solar Kit) Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (1,000 lb actuator rating for 10 ft / 550 lb gate), 30-MPH wind drag (+154 lbs), 688-lb hinge thrust, and 50W solar/60Ah battery sizing for 10-Ft Solid Wood / Metal Privacy Gate (550 Lb) (Off-Grid Solar Kit).",
+    "len_ft": 10,
+    "eff_lbs": 1000,
+    "hinge_lbs": 688,
+    "sol_w": 50,
+    "date": "2026-11-21"
   }
 ]
