@@ -713,5 +713,16 @@
     "hinge_lbs": 812,
     "sol_w": 50,
     "date": "2026-11-20"
+  },
+  {
+    "gate_name": "10-Ft Wood & Steel Frame Gate (650 Lb) (120V AC Low-Voltage Wire Setup)",
+    "slug": "10-ft-wood-steel-frame-gate-650-lb-120v-ac-low-voltage-wire-setup-actuator-solar-calculator",
+    "title": "10-Ft Wood & Steel Frame Gate (650 Lb) (120V AC Low-Voltage Wire Setup) Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (1,010 lb actuator rating for 10 ft / 650 lb gate), 30-MPH wind drag (+106 lbs), 812-lb hinge thrust, and 50W solar/60Ah battery sizing for 10-Ft Wood & Steel Frame Gate (650 Lb) (120V AC Low-Voltage Wire Setup).",
+    "len_ft": 10,
+    "eff_lbs": 1010,
+    "hinge_lbs": 812,
+    "sol_w": 50,
+    "date": "2026-11-21"
   }
 ]
