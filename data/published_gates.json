@@ -746,5 +746,16 @@
     "hinge_lbs": 688,
     "sol_w": 50,
     "date": "2026-11-22"
+  },
+  {
+    "gate_name": "12-Ft Farm Tube Cattle Gate (200 Lb) (Off-Grid Solar Kit)",
+    "slug": "12-ft-farm-tube-cattle-gate-200-lb-off-grid-solar-kit-actuator-solar-calculator",
+    "title": "12-Ft Farm Tube Cattle Gate (200 Lb) (Off-Grid Solar Kit) Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (550 lb actuator rating for 12 ft / 200 lb gate), 30-MPH wind drag (+29 lbs), 300-lb hinge thrust, and 50W solar/60Ah battery sizing for 12-Ft Farm Tube Cattle Gate (200 Lb) (Off-Grid Solar Kit).",
+    "len_ft": 12,
+    "eff_lbs": 550,
+    "hinge_lbs": 300,
+    "sol_w": 50,
+    "date": "2026-11-22"
   }
 ]
