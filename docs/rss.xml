@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/gate-opener-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>12-Ft Ornamental Wrought Iron Gate (500 Lb) (120V AC Low-Voltage Wire Setup) Actuator Capacity, Wind-Load & Solar Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/gate-opener-index/12-ft-ornamental-wrought-iron-gate-500-lb-120v-ac-low-voltage-wire-setup-actuator-solar-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/gate-opener-index/12-ft-ornamental-wrought-iron-gate-500-lb-120v-ac-low-voltage-wire-setup-actuator-solar-calculator.html</guid>
+      <description>Calculate exact gate opener capacity (670 lb actuator rating for 12 ft / 500 lb gate), 30-MPH wind drag (+68 lbs), 750-lb hinge thrust, and 50W solar/60Ah battery sizing for 12-Ft Ornamental Wrought Iron Gate (500 Lb) (120V AC Low-Voltage Wire Setup).</description>
+    </item>
+    <item>
       <title>12-Ft Ornamental Wrought Iron Gate (500 Lb) (Off-Grid Solar Kit) Actuator Capacity, Wind-Load & Solar Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/gate-opener-index/12-ft-ornamental-wrought-iron-gate-500-lb-off-grid-solar-kit-actuator-solar-calculator.html</link>
       <guid>https://hanifsalman11.github.io/gate-opener-index/12-ft-ornamental-wrought-iron-gate-500-lb-off-grid-solar-kit-actuator-solar-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/gate-opener-index/ghost-controls-gate-opener-troubleshooting-actuator-solar-calculator.html</link>
       <guid>https://hanifsalman11.github.io/gate-opener-index/ghost-controls-gate-opener-troubleshooting-actuator-solar-calculator.html</guid>
       <description>Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Ghost Controls Gate Opener Troubleshooting.</description>
-    </item>
-    <item>
-      <title>Ghost Controls Gate Opener Remote Actuator Capacity, Wind-Load & Solar Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/gate-opener-index/ghost-controls-gate-opener-remote-actuator-solar-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/gate-opener-index/ghost-controls-gate-opener-remote-actuator-solar-calculator.html</guid>
-      <description>Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Ghost Controls Gate Opener Remote.</description>
     </item>
   </channel>
 </rss>
