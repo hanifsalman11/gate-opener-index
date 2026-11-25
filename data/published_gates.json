@@ -812,5 +812,27 @@
     "hinge_lbs": 975,
     "sol_w": 50,
     "date": "2026-11-25"
+  },
+  {
+    "gate_name": "Ghost Controls Gate Opener App",
+    "slug": "ghost-controls-gate-opener-app-actuator-solar-calculator",
+    "title": "Ghost Controls Gate Opener App Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (850 lb actuator rating for 16 ft / 450 lb gate), 30-MPH wind drag (+78 lbs), 900-lb hinge thrust, and 30W solar/50Ah battery sizing for Ghost Controls Gate Opener App.",
+    "len_ft": 16,
+    "eff_lbs": 850,
+    "hinge_lbs": 900,
+    "sol_w": 30,
+    "date": "2026-11-25"
+  },
+  {
+    "gate_name": "12-Ft Solid Wood / Metal Privacy Gate (550 Lb) (Off-Grid Solar Kit)",
+    "slug": "12-ft-solid-wood-metal-privacy-gate-550-lb-off-grid-solar-kit-actuator-solar-calculator",
+    "title": "12-Ft Solid Wood / Metal Privacy Gate (550 Lb) (Off-Grid Solar Kit) Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (1,050 lb actuator rating for 12 ft / 550 lb gate), 30-MPH wind drag (+185 lbs), 825-lb hinge thrust, and 50W solar/60Ah battery sizing for 12-Ft Solid Wood / Metal Privacy Gate (550 Lb) (Off-Grid Solar Kit).",
+    "len_ft": 12,
+    "eff_lbs": 1050,
+    "hinge_lbs": 825,
+    "sol_w": 50,
+    "date": "2026-11-25"
   }
 ]
