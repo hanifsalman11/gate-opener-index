@@ -889,5 +889,16 @@
     "hinge_lbs": 350,
     "sol_w": 50,
     "date": "2026-11-26"
+  },
+  {
+    "gate_name": "14-Ft Farm Tube Cattle Gate (200 Lb) (120V AC Low-Voltage Wire Setup)",
+    "slug": "14-ft-farm-tube-cattle-gate-200-lb-120v-ac-low-voltage-wire-setup-actuator-solar-calculator",
+    "title": "14-Ft Farm Tube Cattle Gate (200 Lb) (120V AC Low-Voltage Wire Setup) Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (550 lb actuator rating for 14 ft / 200 lb gate), 30-MPH wind drag (+34 lbs), 350-lb hinge thrust, and 50W solar/60Ah battery sizing for 14-Ft Farm Tube Cattle Gate (200 Lb) (120V AC Low-Voltage Wire Setup).",
+    "len_ft": 14,
+    "eff_lbs": 550,
+    "hinge_lbs": 350,
+    "sol_w": 50,
+    "date": "2026-11-27"
   }
 ]
