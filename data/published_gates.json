@@ -911,5 +911,16 @@
     "hinge_lbs": 875,
     "sol_w": 50,
     "date": "2026-11-27"
+  },
+  {
+    "gate_name": "14-Ft Ornamental Wrought Iron Gate (500 Lb) (120V AC Low-Voltage Wire Setup)",
+    "slug": "14-ft-ornamental-wrought-iron-gate-500-lb-120v-ac-low-voltage-wire-setup-actuator-solar-calculator",
+    "title": "14-Ft Ornamental Wrought Iron Gate (500 Lb) (120V AC Low-Voltage Wire Setup) Actuator Capacity, Wind-Load & Solar Calculator (2026)",
+    "description": "Calculate exact gate opener capacity (780 lb actuator rating for 14 ft / 500 lb gate), 30-MPH wind drag (+79 lbs), 875-lb hinge thrust, and 50W solar/60Ah battery sizing for 14-Ft Ornamental Wrought Iron Gate (500 Lb) (120V AC Low-Voltage Wire Setup).",
+    "len_ft": 14,
+    "eff_lbs": 780,
+    "hinge_lbs": 875,
+    "sol_w": 50,
+    "date": "2026-11-28"
   }
 ]
